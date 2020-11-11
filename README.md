@@ -1,3 +1,3 @@
-# gluecode_base
+# Gluecode 
 
-Training and Evaluation code for the GlueCode Suite
+Training and Evaluation code for the GlueCode 
